@@ -1,0 +1,18 @@
+Sorbitol may be synthesised via a glucose reduction reaction[7] in which the converted aldehyde group is converted into a hydroxyl group. 
+
+The reaction requires NADH and is catalyzed by aldose reductase.
+
+Glucose reduction is the first step of the polyol pathway of glucose metabolism, 
+and is implicated in multiple diabetic complications.
+
+C6H12O6 + NADH + H+ → C6H14O6 + NAD+
+
+The mechanism involves a tyrosine residue in the active site of aldehyde reductase. 
+The hydrogen atom on NADH is transferred to the electrophilic aldehyde carbon atom; 
+electrons on the aldehyde carbon-oxygen double bond are transferred to the oxygen 
+
+that abstracts the proton on tyrosine side chain to form the hydroxyl group. 
+The role of aldehyde reductase tyrosine phenol group is to serve as a general acid 
+
+to provide proton to the reduced aldehyde oxygen on glucose.
+
